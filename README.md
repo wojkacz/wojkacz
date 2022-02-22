@@ -8,8 +8,11 @@ Contact me via email:
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
 ![JavaFX](https://img.shields.io/badge/JavaFX-1572B6?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Swing](https://img.shields.io/badge/Swing-E34F26?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
 
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
