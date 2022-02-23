@@ -12,6 +12,7 @@ Contact me via email:
 ![JavaFX](https://img.shields.io/badge/JavaFX-1572B6?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Swing](https://img.shields.io/badge/Swing-E34F26?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
 
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
