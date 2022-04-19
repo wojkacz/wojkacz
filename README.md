@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am a 3-rd year Student at the Wroclaw University of Science and Technology \
-I'm interested in working with Java, currently looking for a job as Junior Java Developer. 
+I'm interested in working with Java, currently looking for a job as Junior Java Developer. \
+Contact me via email: 
+* wojciechkaczmarek20@gmail.com
+* 252813@student.pwr.edu.pl
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
