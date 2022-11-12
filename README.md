@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 3-rd year Student at the Wroclaw University of Science and Technology \
+I am a 4-th year Student at the Wroclaw University of Science and Technology \
 I'm interested in working with Java, currently looking for a job as Junior Java Developer. \
 Contact me via email: 
 * wojciechkaczmarek20@gmail.com
