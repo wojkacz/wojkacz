@@ -33,6 +33,4 @@ Contact me via email:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ## Contact
-<a href="https://mail.google.com"><img src="https://img.shields.io/badge/-252813@student.pwr.edu.pl-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp;
-
 <a href="https://mail.google.com"><img src="https://img.shields.io/badge/-wojciechkaczmarek20@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp;
